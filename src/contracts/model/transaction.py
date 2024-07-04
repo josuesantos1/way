@@ -7,5 +7,3 @@ class Transaction(BaseModel):
     status: str
     account: str
     
-
-
